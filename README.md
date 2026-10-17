@@ -1,6 +1,6 @@
 # Executive Summary: Car Sales Analytics Dashboard
 
-**Author:** Manish Barman
+**Author:** Manish Barman**
 **Tooling:** Power BI Desktop | DAX | Data Modeling  
 **Dataset Scope:** 10,000 Vehicle Transactions | Multi-Territory Operations  
 
